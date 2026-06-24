@@ -1,0 +1,12 @@
+venv/
+__pycache__/
+.ipynb_checkpoints/
+
+*.pyc
+*.pyo
+
+.DS_Store
+
+*.pbix.autosave
+
+data/raw_data/
